@@ -33,3 +33,4 @@ class Pila:
                 resultado += str(actual.valor) + "\n"
                 actual = actual.siguiente
             return resultado.strip()
+
