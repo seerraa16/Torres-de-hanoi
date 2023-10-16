@@ -1,4 +1,3 @@
-#Ejercicio de las torres de HAnoi.
 class NodoPila:
     def __init__(self, valor):
         self.valor = valor
